@@ -34,18 +34,6 @@ Evaluation on the unseen test set demonstrates robust diagnostic performance acr
 
 ---
 
-## Project Structure
-
-```text
-├── Data_Entry_2017.csv             # Dataset metadata
-├── multi-label-chest-x-ray.ipynb   # Model training & pipeline notebook
-├── evaluation.ipynb                # Results analysis & visualization notebook
-├── best_model.h5                   # Saved Keras model checkpoint
-└── results/                        # Visualizations & ROC-AUC curves
-```
-
----
-
 ## Tech Stack
 
 - **Framework:** TensorFlow / Keras
